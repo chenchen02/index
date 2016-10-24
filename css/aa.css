@@ -26,7 +26,7 @@ body{overflow-Y:scroll;}
 }
 
 .main div img {position:relative; width:130px; height:130px;
-transition:transform 2s;
+transition:transform 2s; border-radius:130px;
 -moz-transition:transform 2s; /* Firefox 4 */
 -webkit-transition:transform 2s; /* Safari and Chrome */
 -o-transition:transform 2s; /* Opera */
