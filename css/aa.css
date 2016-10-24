@@ -10,7 +10,7 @@ body{overflow-Y:scroll;}
 	min-height:670px;
 	position:relative;
 	margin:0 auto;
-	background-image: url(top-head.jpg);
+	background-image: url("top-head.jpg");
 	background-size:100% 675px;
 	background-repeat: no-repeat;
 	opacity:0.8;
